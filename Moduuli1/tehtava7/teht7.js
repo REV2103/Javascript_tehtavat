@@ -7,3 +7,4 @@ while (i<sum) {
     console.log(sum)
     i += 1
 }
+
